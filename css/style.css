@@ -306,7 +306,7 @@ header .copyright {
 .mobile-header {
   background: #000000;
   border-radius: 20px;
-  position: fixed;
+  position: relative;
   display: none;
   -webkit-transform: translateX(0);
   -moz-transform: translateX(0);
