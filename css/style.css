@@ -939,7 +939,7 @@ section.padding-60 {
 /*=================================================================*/
 .overlay {
   border-radius: 20px;
-  background: #ffffff;
+  background: #000000;
   left: 0;
   top: 0;
   opacity: 0.9;
