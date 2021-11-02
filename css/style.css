@@ -410,7 +410,7 @@ main.content.push {
 }
 .hero .cta h1 .dot:after {
   content: "";
-  background-color: #FF5959;
+  background-color: #000000;
   border-radius: 50%;
   display: inline-block;
   margin-left: 5px;
