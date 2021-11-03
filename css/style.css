@@ -76,7 +76,7 @@ img {
 .fullscreen-bg {
   display:flex;
   position: fixed;
-  width:1366px;
+  width:1366;
   height: 768px;;
   top: 0;
   right: 0;
@@ -1062,6 +1062,7 @@ section.padding-60 {
   -moz-box-shadow: 0px 8px 15px 0px rgba(0, 0, 0, 0.2);
   box-shadow: 0px 8px 15px 0px rgba(0, 0, 0, 0.2);
 }
+
 
 .btn-alt {
   color: #FFF;
