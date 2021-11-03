@@ -76,8 +76,8 @@ img {
 .fullscreen-bg {
   display:flex;
   position: fixed;
-  width: 1366px;
-  height: 768px;
+  width:1366px;
+  height: 768px;;
   top: 0;
   right: 0;
   bottom: 0;
