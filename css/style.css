@@ -74,7 +74,10 @@ img {
 }
 
 .fullscreen-bg {
+  display:flex;
   position: fixed;
+  width: 1366px;
+  height: 768px;
   top: 0;
   right: 0;
   bottom: 0;
@@ -84,12 +87,14 @@ img {
 }
 
 .fullscreen-bg__video {
-  position: absolute;
+  position: fixed;
   top: 0;
   left: 0;
-  width: 150px;
-  height: 150px;
+ max-width:100%;
+ max-height:100%;
+ object-fit: cover;
 }
+
 
 /*=================================================================*/
 /*                      TYPOGRAPHY                              
