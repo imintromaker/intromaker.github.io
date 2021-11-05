@@ -342,7 +342,7 @@ header .copyright {
   position: sticky;
     top: 0.5cm;
     left: 1.1cm;
-    z-index: 9999;
+    z-index: 4;
 
 }
 .mobile-header.push {
