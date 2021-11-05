@@ -338,7 +338,8 @@ header .copyright {
   -webkit-transition: all 0.3s ease-in-out;
   -moz-transition: all 0.3s ease-in-out;
   transition: all 0.3s ease-in-out;
-  z-index: 1;
+  position: fixed;
+  z-index: 9999;
 }
 .mobile-header.push {
   -webkit-transform: translateX(295px);
