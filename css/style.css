@@ -341,6 +341,7 @@ header .copyright {
   transition: all 0.3s ease-in-out;
   position: sticky;
     top: 0.5cm;
+    left: 3cm;
     z-index: 4;
 
 }
