@@ -328,8 +328,9 @@ header .copyright {
 
 .mobile-header {
   background: #000000;
-  border-radius: 20px;
+  border-radius: 25px;
   display: none;
+  width: 90%;
   -webkit-transform: translateX(0);
   -moz-transform: translateX(0);
   -ms-transform: translateX(0);
@@ -340,6 +341,7 @@ header .copyright {
   transition: all 0.3s ease-in-out;
   position: sticky;
     top: 0.5cm;
+    left: 1.1cm;
     z-index: 9999;
 
 }
